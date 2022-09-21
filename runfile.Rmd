@@ -1,0 +1,12 @@
+---
+title: "Runfile"
+author: "Kevin Rutherford"
+date: "2022-09-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("/Users/Kevin/git/krr-thesis") 
+```
+
